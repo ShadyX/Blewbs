@@ -1,10 +1,13 @@
 # BlewbsV2
 This bot has no real purpose, it roasts people and says where to save blobs.
 # Setup
-1. Download zip of releases
+1. Download zip from releases
 2. Unzip
-3. CD to folder in CMD
-4. "node bot.js'
-5. Done
+3. Setup a bot account and get your token.
+4. Put token in auth.json
+5. save it
+6. CD to folder in CMD
+7. "node bot.js'
+8. Done
 # NOTICE
 This bot was made orignally by CetaceanNation#7713 on discord. This one is a fork made by the both of us. Also ABSE is the license.
