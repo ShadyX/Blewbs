@@ -1,0 +1,11 @@
+{
+  "name": "Blewbs",
+  "version": "1.0RC1",
+  "description": "A Discord Bot",
+  "main": "bot.js",
+  "author": "CetaceanNation+Witt",
+  "dependencies": {
+    "discord.io": "^2.5.2",
+    "winston": "^2.3.1"
+  }
+}
