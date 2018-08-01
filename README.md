@@ -1,6 +1,6 @@
 # BlewbsV2
-This bot has no real purpose, it roasts people and says where to save blobs.
-# Setup
+This bot has no real purpose, it shows a ditto.
+# Setup (Old)
 1. Download zip from releases
 2. Unzip
 3. Setup a bot account and get your token.
@@ -8,6 +8,6 @@ This bot has no real purpose, it roasts people and says where to save blobs.
 5. save it
 6. CD to folder in CMD
 7. "node bot.js'
-8. Done
+8. Done?
 # NOTICE
-This bot was made orignally by CetaceanNation#7713 on discord. This one is a fork made by the both of us. Also ABSE is the license.
+This bot has not worked for awhile. I'm leaving the code up incase anyone wants to try to get it running.
